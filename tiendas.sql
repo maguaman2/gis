@@ -1,4 +1,4 @@
-/*Seccion profesor (es)*/
+/*Seccion profesor (as)*/
 
 
 /*Alumno1*/
