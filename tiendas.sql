@@ -1,4 +1,4 @@
-/*Seccion nocturna profesor (as/es)*/
+/*Seccion diruna y noctuna  profesor (as/es)*/
 
 
 /*Alumno1*/
