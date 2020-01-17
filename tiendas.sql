@@ -1,4 +1,4 @@
-/*Seccion profesor (as/es)*/
+/*Seccion nocturna profesor (as/es)*/
 
 
 /*Alumno1*/
